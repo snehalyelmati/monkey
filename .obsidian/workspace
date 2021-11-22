@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "2da394e741a23dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a7648cb37bf1e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "254a850e4c4b4b12"
+      },
+      {
+        "id": "f863d86e3c30d835",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "254a850e4c4b4b12"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdfc13b2d795f158",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe70e2e4c7435f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f2398db6015af32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15305abca3eba259",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "631d1bba920be6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f2df962f55a1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f790cb2cfc8322",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "04a7648cb37bf1e7",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}

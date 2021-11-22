@@ -1,1 +1,1 @@
-# MonkeyLang Interpreter in GoLang
+# MonkeyLang Interpreter in Go
