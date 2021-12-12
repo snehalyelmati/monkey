@@ -26,6 +26,9 @@ const (
 	LT = "<"
 	GT = ">"
 
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	// Delimiters
 	COMMA     = ","
 	SEMICOLON = ";"
@@ -54,6 +57,7 @@ var keywords = map[string]TokenType{
 	"return": RETURN,
 }
 
+// looks up if the string parameter is a identifier or keyword
 func LookupIdent(ident string) TokenType {
 	if tok, ok := keywords[ident]; ok {
 		return tok
